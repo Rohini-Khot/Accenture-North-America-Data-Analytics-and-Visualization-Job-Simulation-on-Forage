@@ -4,3 +4,6 @@ uncover patterns, identify top-performing segments, and derive insights to guide
 Using Excel for data visualization and statistical evaluation, we analyzed sales trends, customer 
 demographics, order channels, and category performance. The report highlights key metrics that drive 
 profitability and engagement in the fashion retail domain. 
+
+# Tool Used -Excel
+# Functionalities Used- Excel Dashboard, Pivot table, Conditional Formatting, pivot chart, Vlookup, Hlookup, Slicer, Timeline, Query Editor etc.
